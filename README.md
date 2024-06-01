@@ -73,12 +73,12 @@ files.
 in the organisation you are responsible for, free of charge and on the
 following terms and conditions:
 
-  a. You may not use any file or part of file of this distribution for
+  - You may not use any file or part of file of this distribution for
      non-scientific or commercial purposes.
      
-  b. You may not modify the original CA data (plain text files).
+  - You may not modify the original CA data (plain text files).
   
-  d. You may modify and redistribute the NCA text files (XML files)
+  - You may modify and redistribute the NCA text files (XML files)
      under the terms of the CC BY-NC-SA 4.0 license.
 
 5. In no event will the authors or editors be liable to the user for
