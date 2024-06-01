@@ -46,6 +46,7 @@ Gleßgen, Martin-Dietrich & Gouvert, Xavier (2007): "La base textuelle du Nouvea
 
 Kunstmann, Pierre & Stein, Achim (2007): "Le Nouveau Corpus d'Amsterdam" - Kunstmann, Pierre & Stein, Achim (ed.): Le Nouveau Corpus d'Amsterdam. Actes de l'atelier de Lauterbad, 23-26 février 2006, Stuttgart: Steiner, 9-27 (ISBN 978-3-515-08997-5). [Link](https://www.steiner-verlag.de/Le-Nouveau-Corpus-d-Amsterdam/9783515089975)
 
+Schmid, Helmut. 2019. Deep Learning-Based Morphological Taggers and Lemmatizers for Annotating Historical Texts. Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, 133–137. Brussels Belgium: ACM.
 
 ## Terms of use
 
