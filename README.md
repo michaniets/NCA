@@ -107,19 +107,10 @@ In the ‘Open file’ window: select the file NCA3.txm (the one you downloaded)
 
 ### With older TXM versions (until 0.7.9):
 
-Download the zipped archive NCA for TXM (about 350 MB). Do not unzip the archive!
-
-In TXM: Menu File - Load
-
-In the ‘Open file’ window: select the zipped archive file (the one you downloaded) and open it. (Note that in the file selection window you may have to switch from *.txm to *.zip extensions in order to be able to select the zip file).
-
-TXM will unpack and install the corpus.
-
-This may take a couple of minutes and requires about 3,5 GB space on your disk.
-
-TXM will put the corpus in the ‘corpora’ folder under the ‘TXM’ folder it created (by default) in your home folder.
-
-There (probably in corpora/nca3/txm/NCA3) you will also find (more or less) readable XML files for each text. You may re-use them, but use copies and don’t modify TXM’s subfolders.
+- Download the zipped archive NCA for TXM (about 350 MB). Do not unzip the archive!
+- In TXM: Menu File - Load
+- In the ‘Open file’ window: select the zipped archive file (the one you downloaded) and open it. (Note that in the file selection window you may have to switch from *.txm to *.zip extensions in order to be able to select the zip file).
+- TXM will unpack and install the corpus. This may take a couple of minutes and requires about 3,5 GB space on your disk. TXM will put the corpus in the ‘corpora’ folder under the ‘TXM’ folder it created (by default) in your home folder. There (probably in corpora/nca3/txm/NCA3) you will also find (more or less) readable XML files for each text. You may re-use them, but use copies and don’t modify TXM’s subfolders.
 
 If everything works fine in TXM, you can delete the downloaded file.
 
