@@ -1,0 +1,6 @@
+Nouveau Corpus dÀmsterdam
+Corpus informatique de textes littéraires dàncien français
+(ca 1150-1350), établi par Anthonij Dees (Amsterdam 1987)
+remanié par Achim Stein, Pierre Kunstmann et Martin-D. Gleßgen.
+Universität Stuttgart, Institut für Linguistik/Romanistik 2007
+Version 2 beta 26/3/2007

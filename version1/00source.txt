@@ -1,0 +1,6 @@
+Nouveau Corpus d�msterdam
+Corpus informatique de textes litt�raires d�ncien fran�ais
+(ca 1150-1350), �tabli par Anthonij Dees (Amsterdam 1987)
+remani� par Achim Stein, Pierre Kunstmann et Martin-D. Gle�gen.
+Universit�t Stuttgart, Institut f�r Linguistik/Romanistik 2007
+Version 1 26/3/2007
