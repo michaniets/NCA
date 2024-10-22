@@ -1,0 +1,15 @@
+Pour citer ce corpus:
+
+Nouveau Corpus d'Amsterdam. Corpus informatique de textes littéraires
+dàncien français (ca 1150-1350), établi par Anthonij Dees (Amsterdam
+1987) remanié par Achim Stein, Pierre Kunstmann et Martin-D. Gleßgen.
+Universität Stuttgart, Institut für Linguistik/Romanistik, Version 3,
+2011.
+
+Pour citer la bibliographie intégrée dans la version XML du corpus
+(cf. les valeurs des attributs de la balise subcorpus):
+
+Glessgen, Martin-D. / Vachon, Claire: Répertoire bibliographique du
+Nouveau Corpus d'Amsterdam, établi par Anthonij Dees et Piet Van
+Reenen (Amsterdam 1987), revu et élargi par M.-D.G. et C.V.,
+Zürich: Romanisches Seminar, 2010
