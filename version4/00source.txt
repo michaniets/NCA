@@ -1,30 +1,30 @@
 Pour citer ce corpus:
 
-Nouveau Corpus d'Amsterdam. Corpus informatique de textes littéraires
-d'ancien français (ca 1150-1350), établi par Anthonij Dees (Amsterdam
-1987) remanié par Achim Stein, Pierre Kunstmann et Martin-D. Gleßgen.
-Universität Stuttgart, Institut für Linguistik/Romanistik, Version 4,
+Nouveau Corpus d'Amsterdam. Corpus informatique de textes littÃ©raires
+d'ancien franÃ§ais (ca 1150-1350), Ã©tabli par Anthonij Dees (Amsterdam
+1987) remaniÃ© par Achim Stein, Pierre Kunstmann et Martin-D. GleÃŸgen.
+UniversitÃ¤t Stuttgart, Institut fÃ¼r Linguistik/Romanistik, Version 4,
 2014.
 
 ---
 
-Pour citer la bibliographie intégrée dans la version XML du corpus
+Pour citer la bibliographie intÃ©grÃ©e dans la version XML du corpus
 (cf. les valeurs des attributs de la balise subcorpus):
 
-Glessgen, Martin-D. / Vachon, Claire: Répertoire bibliographique du
-Nouveau Corpus d'Amsterdam, établi par Anthonij Dees et Piet Van
-Reenen (Amsterdam 1987), revu et élargi par M.-D.G. et C.V.,
-Zürich: Romanisches Seminar, 2010
+Glessgen, Martin-D. / Vachon, Claire: RÃ©pertoire bibliographique du
+Nouveau Corpus d'Amsterdam, Ã©tabli par Anthonij Dees et Piet Van
+Reenen (Amsterdam 1987), revu et Ã©largi par M.-D.G. et C.V.,
+ZÃ¼rich: Romanisches Seminar, 2010
 
 ---
 
 Changements dans cette version:
 
-- Dans certains textes en prose, nous avons inséré les signes de
-  ponctuation suivant l'édition.  La fiche bibliographique contient
+- Dans certains textes en prose, nous avons insÃ©rÃ© les signes de
+  ponctuation suivant l'Ã©dition.  La fiche bibliographique contient
   alors le champ "ponctuation=oui".
 
-- Dans certains textes en prose sans édition imprimée, nous avons
-  inséré des points pour marquer la fin des phrases. La fiche
+- Dans certains textes en prose sans Ã©dition imprimÃ©e, nous avons
+  insÃ©rÃ© des points pour marquer la fin des phrases. La fiche
   bibliographique contient alors le champ "ponctuation=oui-phrases".
 
