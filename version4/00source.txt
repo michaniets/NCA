@@ -28,3 +28,4 @@ Changements dans cette version:
   inséré des points pour marquer la fin des phrases. La fiche
   bibliographique contient alors le champ "ponctuation=oui-phrases".
 
+
