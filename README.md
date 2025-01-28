@@ -102,7 +102,8 @@ Download and install the TXM corpus software by following the instructions given
 For TXM versions (0.8 or later):
 
 - Download the NCA v3 in TXM format. The file will download as NCA3.txm
-- Download the NCA v4 in TXM format. The file will download as NCA4.txm
+- Download the NCA v4 in TXM format. The file will download as NCA4.txm.
+  For version 4, the TXM file can be accessed as part of a GitHub **Release** (listed on the right hand side of the GitHub page.)
 
 In TXM: Menu File - Load - a binary corpus (.txm)…
 
