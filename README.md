@@ -8,7 +8,7 @@ These forms had been manually annotated by Dees' team with a set of 225 numeric 
 
 "Le Nouveau Corpus d'Amsterdam" (NCA): The new version of the corpus edited (revised, lemmatized, XML-formatted) by Pierre Kunstmann and Achim Stein was presented at the Lauterbad Workshop in February 2006 (see Kunstmann/Stein 2007 below). The corpus, the lexical resources used for the annotation and the documentation are available free of charge for non-commercial, non-profit research purposes for registered users who have sent the signed license agreement (PDF form) by email or to this address: Prof. Dr. Achim Stein, Institut für Linguistik/Romanistik, Universität Stuttgart, Keplerstraße 17, 70174 Stuttgart, Germany.
 
-Piet van Reenen also provided an edition of _Les chartes de l'Aube_ (see below). They are annotated in the same format as the CA.
+Piet van Reenen also provided an edition of _Les chartes de l'Aube_ (see below). The are annotated in the same format as the CA. See subfolder 'orginal-files/van-reenen'
 
 ### History
 
